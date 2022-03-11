@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/onlinelib/static/css/main.e17f9d62.css",
+    "main.js": "/onlinelib/static/js/main.aea4935e.js",
+    "static/media/Week5.pdf": "/onlinelib/static/media/Week5.7c6c7a3342d9f7088551.pdf",
+    "static/media/Week11.pdf": "/onlinelib/static/media/Week11.2fb38a48a0db9202a8a0.pdf",
+    "static/media/Week4.pdf": "/onlinelib/static/media/Week4.1433b1d492b34dbe1a09.pdf",
+    "static/media/Week9.pdf": "/onlinelib/static/media/Week9.8c12c7dee95d922147f2.pdf",
+    "static/media/Week10.pdf": "/onlinelib/static/media/Week10.9768ac807be29ac4dd35.pdf",
+    "static/media/Week2.pdf": "/onlinelib/static/media/Week2.9373e203e5cb3d35c7bc.pdf",
+    "static/media/Week3.pdf": "/onlinelib/static/media/Week3.7c7da0814e106b8740d9.pdf",
+    "static/media/Week12.pdf": "/onlinelib/static/media/Week12.208be54bd7a214990e66.pdf",
+    "static/media/Week13.pdf": "/onlinelib/static/media/Week13.e785989e1aaa445807cb.pdf",
+    "pdf.worker.js": "/onlinelib/e7e915313973ba1d49f9bb2a1998626e.js",
+    "static/media/Week6.pdf": "/onlinelib/static/media/Week6.e2289b1c63a5ed0aa865.pdf",
+    "static/media/Week7-Midterm-Practice.pdf": "/onlinelib/static/media/Week7-Midterm-Practice.900b23752c2069447d7c.pdf",
+    "static/media/Week5-Examples.pdf": "/onlinelib/static/media/Week5-Examples.824244c17ce4016c6b49.pdf",
+    "static/media/Week6-Examples.pdf": "/onlinelib/static/media/Week6-Examples.911ff5a55d361d204c3f.pdf",
+    "static/media/Week10-Examples.pdf": "/onlinelib/static/media/Week10-Examples.91fc4e3adc2e8e1173bc.pdf",
+    "static/media/Week4-Examples.pdf": "/onlinelib/static/media/Week4-Examples.179e587bf249fef7c97e.pdf",
+    "static/media/Week9-Examples.pdf": "/onlinelib/static/media/Week9-Examples.c192ef946b48d717d230.pdf",
+    "static/media/Week1.pdf": "/onlinelib/static/media/Week1.829e1892d278012399e7.pdf",
+    "static/media/Week3-Examples.pdf": "/onlinelib/static/media/Week3-Examples.0ddcb10d832895b54594.pdf",
+    "static/media/Week11-Examples.pdf": "/onlinelib/static/media/Week11-Examples.ede52f9ffe8b9425b832.pdf",
+    "static/media/Week12-Examples.pdf": "/onlinelib/static/media/Week12-Examples.b72d2eef31413cc0f493.pdf",
+    "static/media/newlast.jpg": "/onlinelib/static/media/newlast.5a7dc83ebc5ab1ae8993.jpg",
+    "index.html": "/onlinelib/index.html",
+    "main.e17f9d62.css.map": "/onlinelib/static/css/main.e17f9d62.css.map",
+    "main.aea4935e.js.map": "/onlinelib/static/js/main.aea4935e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e17f9d62.css",
+    "static/js/main.aea4935e.js"
+  ]
+}
