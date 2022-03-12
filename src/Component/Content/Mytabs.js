@@ -1,6 +1,6 @@
 import {React,useState,Fragment} from 'react'
 
-import {Carousel,Tabs,Tab,CloseButton,Button} from 'react-bootstrap';
+import {Carousel,Tabs,Tab,CloseButton} from 'react-bootstrap';
 
 import  {Document,Page,} from "react-pdf/dist/esm/entry.webpack";
 
